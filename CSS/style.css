@@ -8,12 +8,13 @@ body {
   padding: 5px 25px;
   font-size: 18px;
   margin: 0;
-  color: #0b92e0;
+  color: royalblue;
 }
 
 h1 {
   font-family: "Merriweather", serif;
   font-size: 32px;
+  font-style: oblique
 }
 
 h2 {
@@ -24,11 +25,12 @@ h2 {
 p {
   font-family: "Merriweather", serif;
   font-size: 18px;
-  font 
+  color: black;
 }
 
 p1{
   font-family: "Merriweather", serif;
   font-size: 16px;
   margin-left: 30px;
+  color: black;
 }
