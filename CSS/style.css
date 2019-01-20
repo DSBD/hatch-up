@@ -9,10 +9,11 @@ body {
   font-size: 18px;
   margin: 0;
   color: royalblue;
+  vertical-align: top;
 }
 
 img{
-  padding: 10px;
+  padding-right: 350px;
 }
 
 h1 {
