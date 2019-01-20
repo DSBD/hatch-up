@@ -11,6 +11,10 @@ body {
   color: royalblue;
 }
 
+img{
+  padding: 10px;
+}
+
 h1 {
   font-family: "Electrolize", serif;
   font-size: 32px;
